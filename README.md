@@ -1,12 +1,12 @@
-#Prototype Documentation
+# Prototype Documentation
 
 SpeculAR was produced to serve as an tool for conducting a user-centric evaluation of the
 publics perception of an augmented social space representing their shared interests.
 
-##Deployment:
+## Deployment:
 The unity project of SpeculAR can be built to an apk and deployed on a Meta Quest 3 System.
 
-##User Manual:
+## User Manual:
 After loading, SpeculAR will display the passthrough view of the camera on the AR headset. When
 in this mode, the user can place the initial anchor to initialize the real-world reference by holding
 the left touch controller at the calibration location and pressing the trigger button. The calibration
